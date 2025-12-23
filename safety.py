@@ -1,4 +1,4 @@
-# safety.py
+# safety.py is a saftey file
 
 def is_crisis(text):
     crisis_keywords = [
